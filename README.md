@@ -25,7 +25,9 @@ Automatically celebrate **employee milestones** with gift cards, reducing HR adm
 
 ##  Servers
 - **http://localhost:3000** → Local development server 
-- **http://localhost:3000/api-docs** → swagger docs 
+- **https://ugm-monday-b5763a8d8eee.herokuapp.com/** → production development server 
+- **http://localhost:3000/api-docs** → local swagger docs 
+- **https://ugm-monday-b5763a8d8eee.herokuapp.com/api-docs** → production swagger docs 
 ---
 
 ##  Endpoints
