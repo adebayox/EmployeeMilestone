@@ -1,0 +1,36 @@
+{
+  "tiers": [
+    {
+      "tier": "Bronze",
+      "minValue": 0,
+      "maxValue": 1000,
+      "giftCardAmount": 10,
+      "description": "Basic achievement recognition",
+      "color": "#CD7F32"
+    },
+    {
+      "tier": "Silver",
+      "minValue": 1001,
+      "maxValue": 5000,
+      "giftCardAmount": 25,
+      "description": "Good performance achievement",
+      "color": "#C0C0C0"
+    },
+    {
+      "tier": "Gold",
+      "minValue": 5001,
+      "maxValue": 15000,
+      "giftCardAmount": 50,
+      "description": "Excellent performance achievement",
+      "color": "#FFD700"
+    },
+    {
+      "tier": "Platinum",
+      "minValue": 15001,
+      "maxValue": 999999999,
+      "giftCardAmount": 100,
+      "description": "Outstanding performance achievement",
+      "color": "#E5E4E2"
+    }
+  ]
+}
